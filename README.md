@@ -28,6 +28,7 @@ Price will be $30 plus post. 9 will be available and orders will close (parts or
 
 The memory map will be configurable while the system is running
 
-![]()
-![]()
+![](https://github.com/SteveJustin1963/tec-8k-ROM-128K-SRAM-TEC-Expansion-Kit-BG/blob/master/pics/90197703_10156997110685869_2552800437572993024_n.jpg)
+
+![](https://github.com/SteveJustin1963/tec-8k-ROM-128K-SRAM-TEC-Expansion-Kit-BG/blob/master/pics/90424379_10156997110680869_6227766325104607232_n.jpg)
 
