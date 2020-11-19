@@ -1,12 +1,10 @@
-# tec-8k-ROM-128K-SRAM-TEC-Expansion-Kit-BG
-8k ROM, 128K SRAM TEC Expansion Kit
-
-https://www.facebook.com/groups/623556744820045/818913835284334/?comment_id=819045855271132&notif_id=1584432574126206&notif_t=group_comment_reply
+# tec-Expansion-Kit-BG
 
 * 8k ROM, 128K SRAM TEC Expansion Kits
 * CPLD - epm3064atc44 -10
 * SRAM 128k x 8 smd, sits between the z80 pins
 
+https://www.facebook.com/groups/623556744820045/818913835284334/?comment_id=819045855271132&notif_id=1584432574126206&notif_t=group_comment_reply
 
 
 https://www.electronic-stocks.com/components/Altera(Intel-Programmable-Solutions-Group)/EPM3064ATC44-10N.html?gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpVpOOZLjyWlP3ms2saiMdJ0BcGMiQCtViWszBZctp-EKUoNvZyp9XEaAlDVEALw_wcB
